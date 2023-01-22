@@ -37,5 +37,9 @@ The credentials are kept encrypted and decrypted only inside the stack of the fu
 
 100% secure? maybe not. Handful? definetely. Say goodbye to keychain access popup or login screens.  
 
+### [Booko 🤖](https://github.com/Rainelz/booko)
+A telegram bot to help you filter tennis fields availability around you
+(Sometimes it takes a bit to wake up from naps imposed by the hosting service 💤)
+[Try it](http://t.me/bookoPyBot)
 ## Contact
 `'@'.join(['lucaranalli7', 'gmail.com'])`
